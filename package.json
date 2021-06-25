@@ -72,7 +72,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-optimizer": "^0.1101.0",
-    "@angular-devkit/core": "^11.1.0",
+    "@angular-devkit/core": "^12.1.0",
     "@angular-devkit/schematics": "^11.1.0",
     "@angular/bazel": "^11.1.0",
     "@angular/benchpress": "^0.2.1",
